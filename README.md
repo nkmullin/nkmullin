@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nate Mullin
-- 👀 I’m interested in retinal development and disease.
+
 - 📫 How to reach me: nathaniel-mullin@uiowa.edu
 
 <!---
