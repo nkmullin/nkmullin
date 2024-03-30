@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nate Mullin
-
 - 📫 How to reach me: nathaniel-mullin@uiowa.edu
 
 <!---
